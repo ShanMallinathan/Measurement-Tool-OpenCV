@@ -4,7 +4,7 @@ This work presents a measurement tool developed using C++ and OpenCV library. It
 The camera feed comes with a side information panel that helps to display the results and provide instructions
 
 <p align="center">
-  <img src=![image](https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/e7edb1f5-f0eb-48a3-aa5d-07b244211266) />
+   ![image](https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/e7edb1f5-f0eb-48a3-aa5d-07b244211266)
 </p>
 <img src = ![image](https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/e7edb1f5-f0eb-48a3-aa5d-07b244211266), alt = "measurement window", class = "center">
 
