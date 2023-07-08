@@ -35,7 +35,7 @@ Workflow:
   <img src="https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/b6fa0b27-466e-466e-81a0-279fc823c647">
 </p>
 
-<h2>Measurement error rates</h2>
+<h2>Measurement error rates with white and black backgrounds</h2>
 
 <p align="center">
   <img src="https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/63349697-bf86-47ca-ae4c-eb8b10f2137d">
