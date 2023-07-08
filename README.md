@@ -2,7 +2,7 @@
 This work presents a measurement tool developed using C++ and OpenCV library. It is capable of handling both images and live webcam feed and can be calibrated using the provided template, 1-pound coin, ATM card and manual means.  The measurements have better accuracy while using the provided template for calibration.
 
 The camera feed comes with a side information panel that helps to display the results and provide instructions
-![image](https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/e7edb1f5-f0eb-48a3-aa5d-07b244211266)
+<img src = ![image](https://github.com/ShanMallinathan/Measurement-Tool-OpenCV/assets/115928550/e7edb1f5-f0eb-48a3-aa5d-07b244211266), alt = "measurement window", class = "center">
 
 Workflow:
 
